@@ -1,0 +1,18 @@
+{
+  "DATABASE_URL": "mysql://USER:PASSWORD@HOST:3306/DATABASE?ssl={\"rejectUnauthorized\":true}",
+  "DRIZZLE_DATABASE_URL": "mysql://USER:PASSWORD@HOST:3306/DATABASE?ssl={\"rejectUnauthorized\":true}",
+  "JWT_SECRET": "replace-with-a-long-random-secret",
+  "VITE_APP_ID": "replace-with-oauth-app-id",
+  "OAUTH_SERVER_URL": "https://api.manus.im",
+  "VITE_OAUTH_PORTAL_URL": "https://manus.im",
+  "BUILT_IN_FORGE_API_URL": "replace-with-forge-api-url",
+  "BUILT_IN_FORGE_API_KEY": "replace-with-server-api-key",
+  "VITE_FRONTEND_FORGE_API_URL": "replace-with-frontend-forge-api-url",
+  "VITE_FRONTEND_FORGE_API_KEY": "replace-with-frontend-api-key",
+  "OWNER_OPEN_ID": "replace-with-owner-open-id",
+  "OWNER_NAME": "replace-with-owner-name",
+  "VITE_ANALYTICS_ENDPOINT": "replace-with-analytics-endpoint",
+  "VITE_ANALYTICS_WEBSITE_ID": "replace-with-analytics-website-id",
+  "VITE_APP_TITLE": "Arcana",
+  "VITE_APP_LOGO": "replace-with-logo-url"
+}
