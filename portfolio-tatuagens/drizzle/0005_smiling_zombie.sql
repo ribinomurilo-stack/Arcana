@@ -1,0 +1,1 @@
+ALTER TABLE `quoteRequests` ADD `phone` varchar(32) DEFAULT '' NOT NULL;

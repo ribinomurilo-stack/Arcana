@@ -1,0 +1,1 @@
+ALTER TABLE `quoteRequests` MODIFY COLUMN `preferredDate` varchar(10) NOT NULL DEFAULT 'Não informado';

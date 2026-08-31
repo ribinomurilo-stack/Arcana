@@ -1,0 +1,3 @@
+# Validação dos filtros agrupados
+
+O painel do Arquivo completo possui dois blocos: **Coleções**, com Arquivo completo e Flashs, e **Famílias visuais**, com as famílias principais. A busca isolada `Rosto` foi testada com Arquivo completo ativo e mostrou quatro cards; Mais recentes foi aplicado com resultados visíveis e Limpar filtros restaurou o catálogo. Para o botão Flashs, a navegação foi medida após aguardar a transição: antes `scrollY: 790`, depois `scrollY: 1918`, `hash: #flashs`, `flashTop: 72` e `flashVisible: true`, confirmando alinhamento correto logo abaixo do cabeçalho. O layout mobile também foi capturado, e tipagem, 12 testes e build passaram.

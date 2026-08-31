@@ -1,0 +1,652 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/anoes-01-1a66a381-1808-42b3-96a9-92c95e6f9f53.webp (size: 300876 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/anoes-01-1a66a381-1808-42b3-96a9-92c95e6f9f53_fd08be79.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/anoes-02-22b29b68-6c92-400b-a9f6-2ed7dbb2e105.webp (size: 335306 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/anoes-02-22b29b68-6c92-400b-a9f6-2ed7dbb2e105_15d10aeb.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/anoes-03-souls999-dwarf-surrealist-sketch-sty.webp (size: 208408 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/anoes-03-souls999-dwarf-surrealist-sketch-sty_21b7c73e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/anoes-04-souls999-dwarf-surrealist-sketch-sty.webp (size: 197276 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/anoes-04-souls999-dwarf-surrealist-sketch-sty_1b8a5f8d.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/aqua-01-aqua.webp (size: 68474 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/aqua-01-aqua_0fba77ca.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/aqua-02-aquawish.webp (size: 57746 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/aqua-02-aquawish_764eb551.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-01-1067393b-f65a-4a01-b253-38e633da3608.webp (size: 164994 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-01-1067393b-f65a-4a01-b253-38e633da3608_b0ec61ff.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-02-24ed723d-9908-4e01-aea2-7a261aa54895.webp (size: 162244 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-02-24ed723d-9908-4e01-aea2-7a261aa54895_c0a9f75e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-03-29a14519-d67f-466e-8008-a51f28e05f33.webp (size: 241354 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-03-29a14519-d67f-466e-8008-a51f28e05f33_c5d0b7c6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-04-42f7e788-237b-405a-a3c8-8c1ab99f1d4a.webp (size: 161010 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-04-42f7e788-237b-405a-a3c8-8c1ab99f1d4a_8a818dd6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-05-459ddd2e-6892-4be3-88ad-01a0d0f283f6.webp (size: 174288 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-05-459ddd2e-6892-4be3-88ad-01a0d0f283f6_3ec2326e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-06-485f40b7-2227-4dd7-aed6-d7491d1f485c.webp (size: 237248 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-06-485f40b7-2227-4dd7-aed6-d7491d1f485c_a9956caa.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-07-4e54b40b-7e73-4a38-87a8-ede0243d7a6e.webp (size: 203528 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-07-4e54b40b-7e73-4a38-87a8-ede0243d7a6e_c235a1d8.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-08-53ec2b49-eb31-4e12-8f0a-f7707921c69f.webp (size: 189998 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-08-53ec2b49-eb31-4e12-8f0a-f7707921c69f_aa458b73.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-09-709471e7-c532-418e-82cc-7242da6325d5.webp (size: 217122 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-09-709471e7-c532-418e-82cc-7242da6325d5_24f715f8.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-10-94ba317d-adcf-44e3-92f7-79d044437ffd.webp (size: 235018 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-10-94ba317d-adcf-44e3-92f7-79d044437ffd_d42aa3b9.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-11-fe82c8a7-71d4-41a1-bb84-ad125b02bb50.webp (size: 286852 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/arca-11-fe82c8a7-71d4-41a1-bb84-ad125b02bb50_fbe0154c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-01-636ff370-ebc6-4bb3-9b0d-7dd5cd1c7627.webp (size: 350846 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/deuses-01-636ff370-ebc6-4bb3-9b0d-7dd5cd1c7627_c013ba63.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-02-souls999-ganesha-surrealist-sketch-s.webp (size: 184432 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/deuses-02-souls999-ganesha-surrealist-sketch-s_c4c5a398.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-03-souls999-ganesha-surrealist-sketch-s.webp (size: 198042 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/deuses-03-souls999-ganesha-surrealist-sketch-s_ea744e57.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-04-souls999-o-rei-anubis-rei-do-egito-t.webp (size: 176976 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/deuses-04-souls999-o-rei-anubis-rei-do-egito-t_fc470402.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-05-souls999-shiva-surrealist-sketch-sty.webp (size: 187928 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/deuses-05-souls999-shiva-surrealist-sketch-sty_bcd70437.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-06-souls999-shiva-surrealist-sketch-sty.webp (size: 172578 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/deuses-06-souls999-shiva-surrealist-sketch-sty_b930d244.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-01-04b96373-7072-4b80-93e8-fcaea0ebf51b.webp (size: 84644 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dionisio-01-04b96373-7072-4b80-93e8-fcaea0ebf51b_2bb4f024.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-02-11d75ba1-3d0a-4f83-a196-bbbb9abe6a31.webp (size: 109360 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dionisio-02-11d75ba1-3d0a-4f83-a196-bbbb9abe6a31_125396c1.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-03-12e211b3-fff6-4228-989e-6b6d3ebe1fa0.webp (size: 114198 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dionisio-03-12e211b3-fff6-4228-989e-6b6d3ebe1fa0_ef34644e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-04-230b946a-5584-4926-9161-f7a811f7850e.webp (size: 115156 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dionisio-04-230b946a-5584-4926-9161-f7a811f7850e_7fed5631.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-05-30b8b8d1-ccbc-436b-871e-a358629d9337.webp (size: 111834 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dionisio-05-30b8b8d1-ccbc-436b-871e-a358629d9337_84db369b.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-06-94177c3b-c0c8-4de8-a1fc-0d117876402f.webp (size: 113156 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dionisio-06-94177c3b-c0c8-4de8-a1fc-0d117876402f_4dcfea69.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-07-aac80db0-4e56-43f4-a629-6cfdde203215.webp (size: 96386 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/dionisio-07-aac80db0-4e56-43f4-a629-6cfdde203215_6e59679a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/duendes-01-duende-clown.webp (size: 78014 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/duendes-01-duende-clown_ba78dcab.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/duendes-02-duende.webp (size: 61394 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/duendes-02-duende_6714ba36.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/duendes-03-murilo-ribino-duende-clown.webp (size: 78014 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/duendes-03-murilo-ribino-duende-clown_68037c67.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/duendes-04-wood.webp (size: 83880 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/duendes-04-wood_11ada283.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-01-ancia-elfo.webp (size: 67796 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/elfos-01-ancia-elfo_17169683.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-02-anciao-elfo.webp (size: 90416 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/elfos-02-anciao-elfo_51f911ba.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-03-duende-princesss.webp (size: 95582 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/elfos-03-duende-princesss_a363226a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-04-elfw2.webp (size: 81314 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/elfos-04-elfw2_5107c96c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-05-princesselfwood.webp (size: 83958 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/elfos-05-princesselfwood_4dc21835.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-01-souls999-ent-o-pastor-das-arvores-cr.webp (size: 64638 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ents-01-souls999-ent-o-pastor-das-arvores-cr_370aa828.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-02-souls999-ent-o-pastor-das-arvores-cr.webp (size: 128810 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ents-02-souls999-ent-o-pastor-das-arvores-cr_246e7cca.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-03-souls999-ent-o-pastor-das-arvores-cr.webp (size: 161652 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ents-03-souls999-ent-o-pastor-das-arvores-cr_1e08ce78.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-04-souls999-ent-o-pastor-das-arvores-cr.webp (size: 156692 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ents-04-souls999-ent-o-pastor-das-arvores-cr_cd2b171c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-05-souls999-ent-o-pastor-das-arvores-cr.webp (size: 190194 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ents-05-souls999-ent-o-pastor-das-arvores-cr_d15032f9.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-06-souls999-um-ser-chamado-ent-o-pastor.webp (size: 270738 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ents-06-souls999-um-ser-chamado-ent-o-pastor_0bf0dddf.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fadas-01-bell.webp (size: 70294 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fadas-01-bell_78e02f40.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fadas-02-fayr.webp (size: 62376 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fadas-02-fayr_603027c6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fadas-03-queenfairy.webp (size: 86604 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fadas-03-queenfairy_9fd3ba31.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-01-apple-1.webp (size: 94592 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-01-apple-1_df6980d1.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-02-apple-2.webp (size: 72100 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-02-apple-2_c59c8d3a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-03-apple-3.webp (size: 63942 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-03-apple-3_225088ef.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-04-apple-4.webp (size: 74162 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-04-apple-4_72d291b2.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-05-pera-1.webp (size: 47020 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-05-pera-1_4b73073c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-06-pera-2.webp (size: 66184 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-06-pera-2_44013f07.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-07-pera-3.webp (size: 86290 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-07-pera-3_52e9ed54.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-08-pera-4.webp (size: 40816 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-08-pera-4_cab5f781.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-09-strawberry-1.webp (size: 60452 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-09-strawberry-1_758c9270.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-10-strawberry-2.webp (size: 63024 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-10-strawberry-2_7b45eada.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-11-strawberry-3.webp (size: 104360 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-11-strawberry-3_e20c9696.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-12-strawberry-4.webp (size: 62978 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-12-strawberry-4_eda377a2.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-13-uva-1.webp (size: 96128 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-13-uva-1_1f34d98d.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-14-uva-2.webp (size: 103814 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-14-uva-2_6db3e90e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-15-uva-3.webp (size: 76982 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fruitppl-15-uva-3_85e9cf1b.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-01-5d949a7a-62f8-4e28-8583-01d3ebf72a1d.webp (size: 137310 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gatos-01-5d949a7a-62f8-4e28-8583-01d3ebf72a1d_841222d6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-02-denis-unholytattoo-neon-traditionell.webp (size: 123276 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gatos-02-denis-unholytattoo-neon-traditionell_0e748ace.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-03-knight032574-8872-sphynx-cat-for-a-t.webp (size: 263958 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gatos-03-knight032574-8872-sphynx-cat-for-a-t_76d6465d.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-04-maos-angel2.webp (size: 109766 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gatos-04-maos-angel2_d3145e97.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-05-tspcaptain-rob-a-highly-detailed-tat.webp (size: 184528 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gatos-05-tspcaptain-rob-a-highly-detailed-tat_c4ebed2a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-06-urbansolo-funny-tattoo-line-work-des.webp (size: 54496 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gatos-06-urbansolo-funny-tattoo-line-work-des_4a780bf3.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-01-199ee08c-21ff-41b7-b611-1f56fc703d02.webp (size: 265916 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gnome-01-199ee08c-21ff-41b7-b611-1f56fc703d02_68bdfe66.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-02-gardemgnmo.webp (size: 73076 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gnome-02-gardemgnmo_089ad8c8.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-03-gnomeod.webp (size: 88720 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gnome-03-gnomeod_4255eaad.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-04-gnomewold.webp (size: 131032 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gnome-04-gnomewold_7b79aced.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-05-gnomezin.webp (size: 75838 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gnome-05-gnomezin_603ec33e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/humanos-01-desertqueen.webp (size: 80040 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/humanos-01-desertqueen_0a8a8f60.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/humanos-02-queeen.webp (size: 86632 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/humanos-02-queeen_5689c7d0.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-01-1a633144e5903040f4115a0bc1912271.webp (size: 27092 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/misticos-01-1a633144e5903040f4115a0bc1912271_c2f7e9a7.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-02-7f4ab8baa4deedfb856aea785e904430.webp (size: 63148 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/misticos-02-7f4ab8baa4deedfb856aea785e904430_35c9ac92.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-03-d4ab3bac482607dd21b02cd31ff2d2eb.webp (size: 33682 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/misticos-03-d4ab3bac482607dd21b02cd31ff2d2eb_d1bc91e0.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-04-e3b11eff4be9c473080af750d66792a3.webp (size: 33740 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/misticos-04-e3b11eff4be9c473080af750d66792a3_ad4542b9.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-05-mymymike19-mystical-mushroom-tattoo-.webp (size: 420286 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/misticos-05-mymymike19-mystical-mushroom-tattoo-_fbc5cbbc.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-06-tattoo-amanha4.webp (size: 61058 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/misticos-06-tattoo-amanha4_bc474265.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-07-tattoo-amanha7.webp (size: 34522 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/misticos-07-tattoo-amanha7_6b3ac7d1.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/nextron-01-nexsolar.webp (size: 88066 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/nextron-01-nexsolar_e3062e0d.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-08-yuckfah-studio-ghibli-style-mixed-wi.webp (size: 168892 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/misticos-08-yuckfah-studio-ghibli-style-mixed-wi_8b28cc15.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-01-02f773d5-ea97-4c95-b588-206f028d11aa.webp (size: 65826 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/morvuns-01-02f773d5-ea97-4c95-b588-206f028d11aa_1c393a28.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-02-2e6ed496-d294-435f-86bd-a632afb99820.webp (size: 49964 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/morvuns-02-2e6ed496-d294-435f-86bd-a632afb99820_5fd5f836.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-03-332436ae-f1b3-40c6-a0ae-902813a65e89.webp (size: 149650 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/morvuns-03-332436ae-f1b3-40c6-a0ae-902813a65e89_abf40b7f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-04-3d457121-36ba-4dc3-9164-5fd2b4e0dd45.webp (size: 83476 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/morvuns-04-3d457121-36ba-4dc3-9164-5fd2b4e0dd45_fd47b1a3.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-05-4623357c-5df5-4b36-bffa-d95a5d00e732.webp (size: 146754 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/morvuns-05-4623357c-5df5-4b36-bffa-d95a5d00e732_2bf299e1.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-06-9ba02ba3-e099-454a-bf6a-99f6a4545127.webp (size: 159816 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/morvuns-06-9ba02ba3-e099-454a-bf6a-99f6a4545127_1d2efbad.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-07-9c18afd2-e630-4d9f-b7d8-e1df57c3adfe.webp (size: 63664 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/morvuns-07-9c18afd2-e630-4d9f-b7d8-e1df57c3adfe_065648db.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-08-f42b67e2-05c5-4724-9bf2-669d7fd82b06.webp (size: 92292 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/morvuns-08-f42b67e2-05c5-4724-9bf2-669d7fd82b06_0eb31768.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/nextron-02-nextron.webp (size: 116780 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/nextron-02-nextron_53ce1e5b.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/nextron-03-nexwith.webp (size: 145540 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/nextron-03-nexwith_43d16a15.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/projetos-01-757dff11-cc07-4c09-a945-48367ae6d665.webp (size: 137666 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/projetos-01-757dff11-cc07-4c09-a945-48367ae6d665_a4a74b24.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/projetos-02-a991b566f2277f5b39a385bdd5444829.webp (size: 89408 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/projetos-02-a991b566f2277f5b39a385bdd5444829_ba3ef569.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/projetos-03-ae26af62b4896919423cde1505c2c234.webp (size: 78612 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/projetos-03-ae26af62b4896919423cde1505c2c234_f7c6d9ca.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/projetos-04-chatgpt-image-18-12-2025-06-02-58-1.webp (size: 172158 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/projetos-04-chatgpt-image-18-12-2025-06-02-58-1_3f6d7c49.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/starman-01-letterman.webp (size: 80008 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/starman-01-letterman_2c8e9083.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/starman-02-starboy.webp (size: 75658 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/starman-02-starboy_c7d88fb2.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/starman-03-wizard.webp (size: 71292 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/starman-03-wizard_17a3a246.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-01-darkfo.webp (size: 100810 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/umbra-01-darkfo_710116d5.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-02-darkfor.webp (size: 68006 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/umbra-02-darkfor_8794a379.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-03-ghost.webp (size: 60238 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/umbra-03-ghost_3b29b15e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-04-pale-man-1.webp (size: 74046 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/umbra-04-pale-man-1_bfa5626a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-05-pix.webp (size: 69172 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/umbra-05-pix_6c7953f4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/valars-tolkien-01-orome-caca.webp (size: 107298 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/valars-tolkien-01-orome-caca_f467e0c2.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/valars-tolkien-02-ulmo-agua.webp (size: 102282 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/valars-tolkien-02-ulmo-agua_a5868d3f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-01-0a22d5e4938348167d7d222e224736c5-1.webp (size: 57550 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-01-0a22d5e4938348167d7d222e224736c5-1_c6b5da50.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-02-0a22d5e4938348167d7d222e224736c5.webp (size: 57550 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-02-0a22d5e4938348167d7d222e224736c5_e478639f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-03-15e413aaa1e27afb1c44ea0b3d4d33d8-1.webp (size: 74008 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-03-15e413aaa1e27afb1c44ea0b3d4d33d8-1_3d8d4e16.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-04-15e413aaa1e27afb1c44ea0b3d4d33d8.webp (size: 74008 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-04-15e413aaa1e27afb1c44ea0b3d4d33d8_bf75e9ea.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-05-1c3dd01e65cf2a32ff513ad038ca7397-1.webp (size: 61560 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-05-1c3dd01e65cf2a32ff513ad038ca7397-1_a2089e5d.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-06-1c3dd01e65cf2a32ff513ad038ca7397.webp (size: 61560 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-06-1c3dd01e65cf2a32ff513ad038ca7397_e2f56ef7.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-07-343199350970dc5a898877c841c772ca-1.webp (size: 38252 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-07-343199350970dc5a898877c841c772ca-1_4a17ca48.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-08-343199350970dc5a898877c841c772ca.webp (size: 38252 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-08-343199350970dc5a898877c841c772ca_7c6cf9d2.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-09-399ef87c126b0fcf3d70714ddb4aa7a2-1.webp (size: 119002 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-09-399ef87c126b0fcf3d70714ddb4aa7a2-1_02650c96.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-10-399ef87c126b0fcf3d70714ddb4aa7a2.webp (size: 119002 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-10-399ef87c126b0fcf3d70714ddb4aa7a2_69bedea6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-11-4635627b4c30a0437ec5821db3982d9a-1.webp (size: 48632 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-11-4635627b4c30a0437ec5821db3982d9a-1_b587b6b5.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-12-4635627b4c30a0437ec5821db3982d9a.webp (size: 48632 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-12-4635627b4c30a0437ec5821db3982d9a_c9b40158.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-13-4ad0cd7f6111a3a0b89f343bfc2ce6ba-1.webp (size: 69684 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-13-4ad0cd7f6111a3a0b89f343bfc2ce6ba-1_263516c3.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-14-4ad0cd7f6111a3a0b89f343bfc2ce6ba.webp (size: 69684 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-14-4ad0cd7f6111a3a0b89f343bfc2ce6ba_0344cfdf.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-15-4cabe4eaff5841e18b2f598eec14ebf7-1.webp (size: 27122 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-15-4cabe4eaff5841e18b2f598eec14ebf7-1_28ecffe0.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-16-4cabe4eaff5841e18b2f598eec14ebf7.webp (size: 27122 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-16-4cabe4eaff5841e18b2f598eec14ebf7_0c840519.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-17-55db62ed03633890c3555d1ddf6fa325-1.webp (size: 84226 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-17-55db62ed03633890c3555d1ddf6fa325-1_12e4d5bd.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-18-55db62ed03633890c3555d1ddf6fa325.webp (size: 84226 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-18-55db62ed03633890c3555d1ddf6fa325_14d4e98f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-19-5e62e1baa1ab6cbf6320921f62883969-1.webp (size: 37366 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-19-5e62e1baa1ab6cbf6320921f62883969-1_564006c1.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-20-5e62e1baa1ab6cbf6320921f62883969.webp (size: 37366 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-20-5e62e1baa1ab6cbf6320921f62883969_bde1cee3.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-21-60826bc7ba89e1e838c2f81cdb848bec-1.webp (size: 47984 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-21-60826bc7ba89e1e838c2f81cdb848bec-1_7ac8067a.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-22-60826bc7ba89e1e838c2f81cdb848bec.webp (size: 47984 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-22-60826bc7ba89e1e838c2f81cdb848bec_4ee0f73f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-23-85dba135a7ce8078716fb2b554dfbf78-1.webp (size: 79070 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-23-85dba135a7ce8078716fb2b554dfbf78-1_9a8d1e0c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-24-85dba135a7ce8078716fb2b554dfbf78.webp (size: 79070 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-24-85dba135a7ce8078716fb2b554dfbf78_173e7abd.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-25-8bcf3a23ee5dd89634f0e0c4a6b9f108-1.webp (size: 73478 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-25-8bcf3a23ee5dd89634f0e0c4a6b9f108-1_fbe864fe.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-26-8bcf3a23ee5dd89634f0e0c4a6b9f108.webp (size: 73478 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-26-8bcf3a23ee5dd89634f0e0c4a6b9f108_f610ce35.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-27-97ae558fa930df3e05c13bbedd529046-1.webp (size: 71054 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-27-97ae558fa930df3e05c13bbedd529046-1_11ad1e42.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-28-97ae558fa930df3e05c13bbedd529046.webp (size: 71054 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-28-97ae558fa930df3e05c13bbedd529046_865683e1.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-29-a5debef4ed0a98f65f314fbcdfd234e4-1.webp (size: 74052 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-29-a5debef4ed0a98f65f314fbcdfd234e4-1_bb982a36.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-30-a5debef4ed0a98f65f314fbcdfd234e4.webp (size: 74052 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-30-a5debef4ed0a98f65f314fbcdfd234e4_0dac0da6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-31-af7bf7b335b8cf9ead42f589084439d2-1.webp (size: 42762 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-31-af7bf7b335b8cf9ead42f589084439d2-1_e0149856.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-32-af7bf7b335b8cf9ead42f589084439d2.webp (size: 42762 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-32-af7bf7b335b8cf9ead42f589084439d2_512f606e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-33-baaf50f5af051505793c14556414ae94-1.webp (size: 67040 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-33-baaf50f5af051505793c14556414ae94-1_805b0692.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-34-baaf50f5af051505793c14556414ae94.webp (size: 67040 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-34-baaf50f5af051505793c14556414ae94_ba644c25.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-35-d28ee539d8e6dcd787f51772c7e3fce3-1.webp (size: 70814 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-35-d28ee539d8e6dcd787f51772c7e3fce3-1_23ce357e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-36-d28ee539d8e6dcd787f51772c7e3fce3.webp (size: 70814 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-36-d28ee539d8e6dcd787f51772c7e3fce3_f61d20a7.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-37-d36805394d84808eeb54f7a4bbed0e60-1.webp (size: 41482 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-37-d36805394d84808eeb54f7a4bbed0e60-1_ceee9838.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-38-d36805394d84808eeb54f7a4bbed0e60.webp (size: 41482 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-38-d36805394d84808eeb54f7a4bbed0e60_0822519e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-39-e4170271281a6403f8737323d2fe9401-1.webp (size: 150292 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-39-e4170271281a6403f8737323d2fe9401-1_e86f657f.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-40-e4170271281a6403f8737323d2fe9401-2.webp (size: 150292 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-40-e4170271281a6403f8737323d2fe9401-2_7a791ef4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-41-e6de2ec1da252010e4cba57e1c87e0b5-1.webp (size: 94468 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-41-e6de2ec1da252010e4cba57e1c87e0b5-1_e1e2a03b.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-42-e6de2ec1da252010e4cba57e1c87e0b5.webp (size: 94468 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-42-e6de2ec1da252010e4cba57e1c87e0b5_112e6dd6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-43-e7c561b3767bdb72c17d5b6aa837d542-1.webp (size: 70268 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-43-e7c561b3767bdb72c17d5b6aa837d542-1_c02fb57e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-44-e7c561b3767bdb72c17d5b6aa837d542.webp (size: 70268 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-44-e7c561b3767bdb72c17d5b6aa837d542_2e12fec4.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-45-f69bfee6ae21da170bc37d1f50a654cf-1.webp (size: 45918 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-45-f69bfee6ae21da170bc37d1f50a654cf-1_a0a15ec1.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-46-f69bfee6ae21da170bc37d1f50a654cf.webp (size: 45918 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-46-f69bfee6ae21da170bc37d1f50a654cf_c430705b.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-47-niel6.webp (size: 79218 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vikings-47-niel6_9b1ea312.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-01-0461c79e-60ac-4e16-8af6-370e6408567b.webp (size: 91578 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/witches-01-0461c79e-60ac-4e16-8af6-370e6408567b_34ac107c.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-02-06c34ed1-a5dd-49a2-b8be-72f888edaf16.webp (size: 11384 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/witches-02-06c34ed1-a5dd-49a2-b8be-72f888edaf16_fc32e900.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-03-6d870bd0-6894-4464-abdf-d304218298cc.webp (size: 9328 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/witches-03-6d870bd0-6894-4464-abdf-d304218298cc_6c4846f0.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-04-7c90a18e-3160-4432-938e-f17eeae2a9d4.webp (size: 113480 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/witches-04-7c90a18e-3160-4432-938e-f17eeae2a9d4_c4c48d8e.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-05-808046ae-c825-49f4-89fc-fbbb88ac2604.webp (size: 9688 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/witches-05-808046ae-c825-49f4-89fc-fbbb88ac2604_cc1228c6.webp
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-06-witch.webp (size: 95644 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/witches-06-witch_39f2efcf.webp
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/anoes-01-1a66a381-1808-42b3-96a9-92c95e6f9f53.webp -> /manus-storage/anoes-01-1a66a381-1808-42b3-96a9-92c95e6f9f53_fd08be79.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/anoes-02-22b29b68-6c92-400b-a9f6-2ed7dbb2e105.webp -> /manus-storage/anoes-02-22b29b68-6c92-400b-a9f6-2ed7dbb2e105_15d10aeb.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/anoes-03-souls999-dwarf-surrealist-sketch-sty.webp -> /manus-storage/anoes-03-souls999-dwarf-surrealist-sketch-sty_21b7c73e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/anoes-04-souls999-dwarf-surrealist-sketch-sty.webp -> /manus-storage/anoes-04-souls999-dwarf-surrealist-sketch-sty_1b8a5f8d.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/aqua-01-aqua.webp -> /manus-storage/aqua-01-aqua_0fba77ca.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/aqua-02-aquawish.webp -> /manus-storage/aqua-02-aquawish_764eb551.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-01-1067393b-f65a-4a01-b253-38e633da3608.webp -> /manus-storage/arca-01-1067393b-f65a-4a01-b253-38e633da3608_b0ec61ff.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-02-24ed723d-9908-4e01-aea2-7a261aa54895.webp -> /manus-storage/arca-02-24ed723d-9908-4e01-aea2-7a261aa54895_c0a9f75e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-03-29a14519-d67f-466e-8008-a51f28e05f33.webp -> /manus-storage/arca-03-29a14519-d67f-466e-8008-a51f28e05f33_c5d0b7c6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-04-42f7e788-237b-405a-a3c8-8c1ab99f1d4a.webp -> /manus-storage/arca-04-42f7e788-237b-405a-a3c8-8c1ab99f1d4a_8a818dd6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-05-459ddd2e-6892-4be3-88ad-01a0d0f283f6.webp -> /manus-storage/arca-05-459ddd2e-6892-4be3-88ad-01a0d0f283f6_3ec2326e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-06-485f40b7-2227-4dd7-aed6-d7491d1f485c.webp -> /manus-storage/arca-06-485f40b7-2227-4dd7-aed6-d7491d1f485c_a9956caa.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-07-4e54b40b-7e73-4a38-87a8-ede0243d7a6e.webp -> /manus-storage/arca-07-4e54b40b-7e73-4a38-87a8-ede0243d7a6e_c235a1d8.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-08-53ec2b49-eb31-4e12-8f0a-f7707921c69f.webp -> /manus-storage/arca-08-53ec2b49-eb31-4e12-8f0a-f7707921c69f_aa458b73.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-09-709471e7-c532-418e-82cc-7242da6325d5.webp -> /manus-storage/arca-09-709471e7-c532-418e-82cc-7242da6325d5_24f715f8.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-10-94ba317d-adcf-44e3-92f7-79d044437ffd.webp -> /manus-storage/arca-10-94ba317d-adcf-44e3-92f7-79d044437ffd_d42aa3b9.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/arca-11-fe82c8a7-71d4-41a1-bb84-ad125b02bb50.webp -> /manus-storage/arca-11-fe82c8a7-71d4-41a1-bb84-ad125b02bb50_fbe0154c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-01-636ff370-ebc6-4bb3-9b0d-7dd5cd1c7627.webp -> /manus-storage/deuses-01-636ff370-ebc6-4bb3-9b0d-7dd5cd1c7627_c013ba63.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-02-souls999-ganesha-surrealist-sketch-s.webp -> /manus-storage/deuses-02-souls999-ganesha-surrealist-sketch-s_c4c5a398.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-03-souls999-ganesha-surrealist-sketch-s.webp -> /manus-storage/deuses-03-souls999-ganesha-surrealist-sketch-s_ea744e57.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-04-souls999-o-rei-anubis-rei-do-egito-t.webp -> /manus-storage/deuses-04-souls999-o-rei-anubis-rei-do-egito-t_fc470402.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-05-souls999-shiva-surrealist-sketch-sty.webp -> /manus-storage/deuses-05-souls999-shiva-surrealist-sketch-sty_bcd70437.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/deuses-06-souls999-shiva-surrealist-sketch-sty.webp -> /manus-storage/deuses-06-souls999-shiva-surrealist-sketch-sty_b930d244.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-01-04b96373-7072-4b80-93e8-fcaea0ebf51b.webp -> /manus-storage/dionisio-01-04b96373-7072-4b80-93e8-fcaea0ebf51b_2bb4f024.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-02-11d75ba1-3d0a-4f83-a196-bbbb9abe6a31.webp -> /manus-storage/dionisio-02-11d75ba1-3d0a-4f83-a196-bbbb9abe6a31_125396c1.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-03-12e211b3-fff6-4228-989e-6b6d3ebe1fa0.webp -> /manus-storage/dionisio-03-12e211b3-fff6-4228-989e-6b6d3ebe1fa0_ef34644e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-04-230b946a-5584-4926-9161-f7a811f7850e.webp -> /manus-storage/dionisio-04-230b946a-5584-4926-9161-f7a811f7850e_7fed5631.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-05-30b8b8d1-ccbc-436b-871e-a358629d9337.webp -> /manus-storage/dionisio-05-30b8b8d1-ccbc-436b-871e-a358629d9337_84db369b.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-06-94177c3b-c0c8-4de8-a1fc-0d117876402f.webp -> /manus-storage/dionisio-06-94177c3b-c0c8-4de8-a1fc-0d117876402f_4dcfea69.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/dionisio-07-aac80db0-4e56-43f4-a629-6cfdde203215.webp -> /manus-storage/dionisio-07-aac80db0-4e56-43f4-a629-6cfdde203215_6e59679a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/duendes-01-duende-clown.webp -> /manus-storage/duendes-01-duende-clown_ba78dcab.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/duendes-02-duende.webp -> /manus-storage/duendes-02-duende_6714ba36.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/duendes-03-murilo-ribino-duende-clown.webp -> /manus-storage/duendes-03-murilo-ribino-duende-clown_68037c67.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/duendes-04-wood.webp -> /manus-storage/duendes-04-wood_11ada283.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-01-ancia-elfo.webp -> /manus-storage/elfos-01-ancia-elfo_17169683.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-02-anciao-elfo.webp -> /manus-storage/elfos-02-anciao-elfo_51f911ba.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-03-duende-princesss.webp -> /manus-storage/elfos-03-duende-princesss_a363226a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-04-elfw2.webp -> /manus-storage/elfos-04-elfw2_5107c96c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/elfos-05-princesselfwood.webp -> /manus-storage/elfos-05-princesselfwood_4dc21835.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-01-souls999-ent-o-pastor-das-arvores-cr.webp -> /manus-storage/ents-01-souls999-ent-o-pastor-das-arvores-cr_370aa828.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-02-souls999-ent-o-pastor-das-arvores-cr.webp -> /manus-storage/ents-02-souls999-ent-o-pastor-das-arvores-cr_246e7cca.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-03-souls999-ent-o-pastor-das-arvores-cr.webp -> /manus-storage/ents-03-souls999-ent-o-pastor-das-arvores-cr_1e08ce78.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-04-souls999-ent-o-pastor-das-arvores-cr.webp -> /manus-storage/ents-04-souls999-ent-o-pastor-das-arvores-cr_cd2b171c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-05-souls999-ent-o-pastor-das-arvores-cr.webp -> /manus-storage/ents-05-souls999-ent-o-pastor-das-arvores-cr_d15032f9.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/ents-06-souls999-um-ser-chamado-ent-o-pastor.webp -> /manus-storage/ents-06-souls999-um-ser-chamado-ent-o-pastor_0bf0dddf.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fadas-01-bell.webp -> /manus-storage/fadas-01-bell_78e02f40.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fadas-02-fayr.webp -> /manus-storage/fadas-02-fayr_603027c6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fadas-03-queenfairy.webp -> /manus-storage/fadas-03-queenfairy_9fd3ba31.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-01-apple-1.webp -> /manus-storage/fruitppl-01-apple-1_df6980d1.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-02-apple-2.webp -> /manus-storage/fruitppl-02-apple-2_c59c8d3a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-03-apple-3.webp -> /manus-storage/fruitppl-03-apple-3_225088ef.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-04-apple-4.webp -> /manus-storage/fruitppl-04-apple-4_72d291b2.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-05-pera-1.webp -> /manus-storage/fruitppl-05-pera-1_4b73073c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-06-pera-2.webp -> /manus-storage/fruitppl-06-pera-2_44013f07.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-07-pera-3.webp -> /manus-storage/fruitppl-07-pera-3_52e9ed54.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-08-pera-4.webp -> /manus-storage/fruitppl-08-pera-4_cab5f781.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-09-strawberry-1.webp -> /manus-storage/fruitppl-09-strawberry-1_758c9270.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-10-strawberry-2.webp -> /manus-storage/fruitppl-10-strawberry-2_7b45eada.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-11-strawberry-3.webp -> /manus-storage/fruitppl-11-strawberry-3_e20c9696.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-12-strawberry-4.webp -> /manus-storage/fruitppl-12-strawberry-4_eda377a2.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-13-uva-1.webp -> /manus-storage/fruitppl-13-uva-1_1f34d98d.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-14-uva-2.webp -> /manus-storage/fruitppl-14-uva-2_6db3e90e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/fruitppl-15-uva-3.webp -> /manus-storage/fruitppl-15-uva-3_85e9cf1b.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-01-5d949a7a-62f8-4e28-8583-01d3ebf72a1d.webp -> /manus-storage/gatos-01-5d949a7a-62f8-4e28-8583-01d3ebf72a1d_841222d6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-02-denis-unholytattoo-neon-traditionell.webp -> /manus-storage/gatos-02-denis-unholytattoo-neon-traditionell_0e748ace.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-03-knight032574-8872-sphynx-cat-for-a-t.webp -> /manus-storage/gatos-03-knight032574-8872-sphynx-cat-for-a-t_76d6465d.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-04-maos-angel2.webp -> /manus-storage/gatos-04-maos-angel2_d3145e97.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-05-tspcaptain-rob-a-highly-detailed-tat.webp -> /manus-storage/gatos-05-tspcaptain-rob-a-highly-detailed-tat_c4ebed2a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gatos-06-urbansolo-funny-tattoo-line-work-des.webp -> /manus-storage/gatos-06-urbansolo-funny-tattoo-line-work-des_4a780bf3.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-01-199ee08c-21ff-41b7-b611-1f56fc703d02.webp -> /manus-storage/gnome-01-199ee08c-21ff-41b7-b611-1f56fc703d02_68bdfe66.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-02-gardemgnmo.webp -> /manus-storage/gnome-02-gardemgnmo_089ad8c8.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-03-gnomeod.webp -> /manus-storage/gnome-03-gnomeod_4255eaad.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-04-gnomewold.webp -> /manus-storage/gnome-04-gnomewold_7b79aced.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/gnome-05-gnomezin.webp -> /manus-storage/gnome-05-gnomezin_603ec33e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/humanos-01-desertqueen.webp -> /manus-storage/humanos-01-desertqueen_0a8a8f60.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/humanos-02-queeen.webp -> /manus-storage/humanos-02-queeen_5689c7d0.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-01-1a633144e5903040f4115a0bc1912271.webp -> /manus-storage/misticos-01-1a633144e5903040f4115a0bc1912271_c2f7e9a7.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-02-7f4ab8baa4deedfb856aea785e904430.webp -> /manus-storage/misticos-02-7f4ab8baa4deedfb856aea785e904430_35c9ac92.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-03-d4ab3bac482607dd21b02cd31ff2d2eb.webp -> /manus-storage/misticos-03-d4ab3bac482607dd21b02cd31ff2d2eb_d1bc91e0.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-04-e3b11eff4be9c473080af750d66792a3.webp -> /manus-storage/misticos-04-e3b11eff4be9c473080af750d66792a3_ad4542b9.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-05-mymymike19-mystical-mushroom-tattoo-.webp -> /manus-storage/misticos-05-mymymike19-mystical-mushroom-tattoo-_fbc5cbbc.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-06-tattoo-amanha4.webp -> /manus-storage/misticos-06-tattoo-amanha4_bc474265.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-07-tattoo-amanha7.webp -> /manus-storage/misticos-07-tattoo-amanha7_6b3ac7d1.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/nextron-01-nexsolar.webp -> /manus-storage/nextron-01-nexsolar_e3062e0d.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/misticos-08-yuckfah-studio-ghibli-style-mixed-wi.webp -> /manus-storage/misticos-08-yuckfah-studio-ghibli-style-mixed-wi_8b28cc15.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-01-02f773d5-ea97-4c95-b588-206f028d11aa.webp -> /manus-storage/morvuns-01-02f773d5-ea97-4c95-b588-206f028d11aa_1c393a28.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-02-2e6ed496-d294-435f-86bd-a632afb99820.webp -> /manus-storage/morvuns-02-2e6ed496-d294-435f-86bd-a632afb99820_5fd5f836.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-03-332436ae-f1b3-40c6-a0ae-902813a65e89.webp -> /manus-storage/morvuns-03-332436ae-f1b3-40c6-a0ae-902813a65e89_abf40b7f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-04-3d457121-36ba-4dc3-9164-5fd2b4e0dd45.webp -> /manus-storage/morvuns-04-3d457121-36ba-4dc3-9164-5fd2b4e0dd45_fd47b1a3.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-05-4623357c-5df5-4b36-bffa-d95a5d00e732.webp -> /manus-storage/morvuns-05-4623357c-5df5-4b36-bffa-d95a5d00e732_2bf299e1.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-06-9ba02ba3-e099-454a-bf6a-99f6a4545127.webp -> /manus-storage/morvuns-06-9ba02ba3-e099-454a-bf6a-99f6a4545127_1d2efbad.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-07-9c18afd2-e630-4d9f-b7d8-e1df57c3adfe.webp -> /manus-storage/morvuns-07-9c18afd2-e630-4d9f-b7d8-e1df57c3adfe_065648db.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/morvuns-08-f42b67e2-05c5-4724-9bf2-669d7fd82b06.webp -> /manus-storage/morvuns-08-f42b67e2-05c5-4724-9bf2-669d7fd82b06_0eb31768.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/nextron-02-nextron.webp -> /manus-storage/nextron-02-nextron_53ce1e5b.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/nextron-03-nexwith.webp -> /manus-storage/nextron-03-nexwith_43d16a15.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/projetos-01-757dff11-cc07-4c09-a945-48367ae6d665.webp -> /manus-storage/projetos-01-757dff11-cc07-4c09-a945-48367ae6d665_a4a74b24.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/projetos-02-a991b566f2277f5b39a385bdd5444829.webp -> /manus-storage/projetos-02-a991b566f2277f5b39a385bdd5444829_ba3ef569.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/projetos-03-ae26af62b4896919423cde1505c2c234.webp -> /manus-storage/projetos-03-ae26af62b4896919423cde1505c2c234_f7c6d9ca.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/projetos-04-chatgpt-image-18-12-2025-06-02-58-1.webp -> /manus-storage/projetos-04-chatgpt-image-18-12-2025-06-02-58-1_3f6d7c49.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/starman-01-letterman.webp -> /manus-storage/starman-01-letterman_2c8e9083.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/starman-02-starboy.webp -> /manus-storage/starman-02-starboy_c7d88fb2.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/starman-03-wizard.webp -> /manus-storage/starman-03-wizard_17a3a246.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-01-darkfo.webp -> /manus-storage/umbra-01-darkfo_710116d5.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-02-darkfor.webp -> /manus-storage/umbra-02-darkfor_8794a379.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-03-ghost.webp -> /manus-storage/umbra-03-ghost_3b29b15e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-04-pale-man-1.webp -> /manus-storage/umbra-04-pale-man-1_bfa5626a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/umbra-05-pix.webp -> /manus-storage/umbra-05-pix_6c7953f4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/valars-tolkien-01-orome-caca.webp -> /manus-storage/valars-tolkien-01-orome-caca_f467e0c2.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/valars-tolkien-02-ulmo-agua.webp -> /manus-storage/valars-tolkien-02-ulmo-agua_a5868d3f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-01-0a22d5e4938348167d7d222e224736c5-1.webp -> /manus-storage/vikings-01-0a22d5e4938348167d7d222e224736c5-1_c6b5da50.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-02-0a22d5e4938348167d7d222e224736c5.webp -> /manus-storage/vikings-02-0a22d5e4938348167d7d222e224736c5_e478639f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-03-15e413aaa1e27afb1c44ea0b3d4d33d8-1.webp -> /manus-storage/vikings-03-15e413aaa1e27afb1c44ea0b3d4d33d8-1_3d8d4e16.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-04-15e413aaa1e27afb1c44ea0b3d4d33d8.webp -> /manus-storage/vikings-04-15e413aaa1e27afb1c44ea0b3d4d33d8_bf75e9ea.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-05-1c3dd01e65cf2a32ff513ad038ca7397-1.webp -> /manus-storage/vikings-05-1c3dd01e65cf2a32ff513ad038ca7397-1_a2089e5d.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-06-1c3dd01e65cf2a32ff513ad038ca7397.webp -> /manus-storage/vikings-06-1c3dd01e65cf2a32ff513ad038ca7397_e2f56ef7.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-07-343199350970dc5a898877c841c772ca-1.webp -> /manus-storage/vikings-07-343199350970dc5a898877c841c772ca-1_4a17ca48.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-08-343199350970dc5a898877c841c772ca.webp -> /manus-storage/vikings-08-343199350970dc5a898877c841c772ca_7c6cf9d2.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-09-399ef87c126b0fcf3d70714ddb4aa7a2-1.webp -> /manus-storage/vikings-09-399ef87c126b0fcf3d70714ddb4aa7a2-1_02650c96.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-10-399ef87c126b0fcf3d70714ddb4aa7a2.webp -> /manus-storage/vikings-10-399ef87c126b0fcf3d70714ddb4aa7a2_69bedea6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-11-4635627b4c30a0437ec5821db3982d9a-1.webp -> /manus-storage/vikings-11-4635627b4c30a0437ec5821db3982d9a-1_b587b6b5.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-12-4635627b4c30a0437ec5821db3982d9a.webp -> /manus-storage/vikings-12-4635627b4c30a0437ec5821db3982d9a_c9b40158.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-13-4ad0cd7f6111a3a0b89f343bfc2ce6ba-1.webp -> /manus-storage/vikings-13-4ad0cd7f6111a3a0b89f343bfc2ce6ba-1_263516c3.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-14-4ad0cd7f6111a3a0b89f343bfc2ce6ba.webp -> /manus-storage/vikings-14-4ad0cd7f6111a3a0b89f343bfc2ce6ba_0344cfdf.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-15-4cabe4eaff5841e18b2f598eec14ebf7-1.webp -> /manus-storage/vikings-15-4cabe4eaff5841e18b2f598eec14ebf7-1_28ecffe0.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-16-4cabe4eaff5841e18b2f598eec14ebf7.webp -> /manus-storage/vikings-16-4cabe4eaff5841e18b2f598eec14ebf7_0c840519.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-17-55db62ed03633890c3555d1ddf6fa325-1.webp -> /manus-storage/vikings-17-55db62ed03633890c3555d1ddf6fa325-1_12e4d5bd.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-18-55db62ed03633890c3555d1ddf6fa325.webp -> /manus-storage/vikings-18-55db62ed03633890c3555d1ddf6fa325_14d4e98f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-19-5e62e1baa1ab6cbf6320921f62883969-1.webp -> /manus-storage/vikings-19-5e62e1baa1ab6cbf6320921f62883969-1_564006c1.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-20-5e62e1baa1ab6cbf6320921f62883969.webp -> /manus-storage/vikings-20-5e62e1baa1ab6cbf6320921f62883969_bde1cee3.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-21-60826bc7ba89e1e838c2f81cdb848bec-1.webp -> /manus-storage/vikings-21-60826bc7ba89e1e838c2f81cdb848bec-1_7ac8067a.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-22-60826bc7ba89e1e838c2f81cdb848bec.webp -> /manus-storage/vikings-22-60826bc7ba89e1e838c2f81cdb848bec_4ee0f73f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-23-85dba135a7ce8078716fb2b554dfbf78-1.webp -> /manus-storage/vikings-23-85dba135a7ce8078716fb2b554dfbf78-1_9a8d1e0c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-24-85dba135a7ce8078716fb2b554dfbf78.webp -> /manus-storage/vikings-24-85dba135a7ce8078716fb2b554dfbf78_173e7abd.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-25-8bcf3a23ee5dd89634f0e0c4a6b9f108-1.webp -> /manus-storage/vikings-25-8bcf3a23ee5dd89634f0e0c4a6b9f108-1_fbe864fe.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-26-8bcf3a23ee5dd89634f0e0c4a6b9f108.webp -> /manus-storage/vikings-26-8bcf3a23ee5dd89634f0e0c4a6b9f108_f610ce35.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-27-97ae558fa930df3e05c13bbedd529046-1.webp -> /manus-storage/vikings-27-97ae558fa930df3e05c13bbedd529046-1_11ad1e42.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-28-97ae558fa930df3e05c13bbedd529046.webp -> /manus-storage/vikings-28-97ae558fa930df3e05c13bbedd529046_865683e1.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-29-a5debef4ed0a98f65f314fbcdfd234e4-1.webp -> /manus-storage/vikings-29-a5debef4ed0a98f65f314fbcdfd234e4-1_bb982a36.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-30-a5debef4ed0a98f65f314fbcdfd234e4.webp -> /manus-storage/vikings-30-a5debef4ed0a98f65f314fbcdfd234e4_0dac0da6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-31-af7bf7b335b8cf9ead42f589084439d2-1.webp -> /manus-storage/vikings-31-af7bf7b335b8cf9ead42f589084439d2-1_e0149856.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-32-af7bf7b335b8cf9ead42f589084439d2.webp -> /manus-storage/vikings-32-af7bf7b335b8cf9ead42f589084439d2_512f606e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-33-baaf50f5af051505793c14556414ae94-1.webp -> /manus-storage/vikings-33-baaf50f5af051505793c14556414ae94-1_805b0692.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-34-baaf50f5af051505793c14556414ae94.webp -> /manus-storage/vikings-34-baaf50f5af051505793c14556414ae94_ba644c25.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-35-d28ee539d8e6dcd787f51772c7e3fce3-1.webp -> /manus-storage/vikings-35-d28ee539d8e6dcd787f51772c7e3fce3-1_23ce357e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-36-d28ee539d8e6dcd787f51772c7e3fce3.webp -> /manus-storage/vikings-36-d28ee539d8e6dcd787f51772c7e3fce3_f61d20a7.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-37-d36805394d84808eeb54f7a4bbed0e60-1.webp -> /manus-storage/vikings-37-d36805394d84808eeb54f7a4bbed0e60-1_ceee9838.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-38-d36805394d84808eeb54f7a4bbed0e60.webp -> /manus-storage/vikings-38-d36805394d84808eeb54f7a4bbed0e60_0822519e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-39-e4170271281a6403f8737323d2fe9401-1.webp -> /manus-storage/vikings-39-e4170271281a6403f8737323d2fe9401-1_e86f657f.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-40-e4170271281a6403f8737323d2fe9401-2.webp -> /manus-storage/vikings-40-e4170271281a6403f8737323d2fe9401-2_7a791ef4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-41-e6de2ec1da252010e4cba57e1c87e0b5-1.webp -> /manus-storage/vikings-41-e6de2ec1da252010e4cba57e1c87e0b5-1_e1e2a03b.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-42-e6de2ec1da252010e4cba57e1c87e0b5.webp -> /manus-storage/vikings-42-e6de2ec1da252010e4cba57e1c87e0b5_112e6dd6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-43-e7c561b3767bdb72c17d5b6aa837d542-1.webp -> /manus-storage/vikings-43-e7c561b3767bdb72c17d5b6aa837d542-1_c02fb57e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-44-e7c561b3767bdb72c17d5b6aa837d542.webp -> /manus-storage/vikings-44-e7c561b3767bdb72c17d5b6aa837d542_2e12fec4.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-45-f69bfee6ae21da170bc37d1f50a654cf-1.webp -> /manus-storage/vikings-45-f69bfee6ae21da170bc37d1f50a654cf-1_a0a15ec1.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-46-f69bfee6ae21da170bc37d1f50a654cf.webp -> /manus-storage/vikings-46-f69bfee6ae21da170bc37d1f50a654cf_c430705b.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/vikings-47-niel6.webp -> /manus-storage/vikings-47-niel6_9b1ea312.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-01-0461c79e-60ac-4e16-8af6-370e6408567b.webp -> /manus-storage/witches-01-0461c79e-60ac-4e16-8af6-370e6408567b_34ac107c.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-02-06c34ed1-a5dd-49a2-b8be-72f888edaf16.webp -> /manus-storage/witches-02-06c34ed1-a5dd-49a2-b8be-72f888edaf16_fc32e900.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-03-6d870bd0-6894-4464-abdf-d304218298cc.webp -> /manus-storage/witches-03-6d870bd0-6894-4464-abdf-d304218298cc_6c4846f0.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-04-7c90a18e-3160-4432-938e-f17eeae2a9d4.webp -> /manus-storage/witches-04-7c90a18e-3160-4432-938e-f17eeae2a9d4_c4c48d8e.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-05-808046ae-c825-49f4-89fc-fbbb88ac2604.webp -> /manus-storage/witches-05-808046ae-c825-49f4-89fc-fbbb88ac2604_cc1228c6.webp
+[SUCCESS] /home/ubuntu/webdev-static-assets/desenhos-optimized/witches-06-witch.webp -> /manus-storage/witches-06-witch_39f2efcf.webp
+=====================================
+Total: 162, Success: 162, Failed: 0

@@ -1,0 +1,1 @@
+ALTER TABLE `quoteRequests` ADD `preferredDate` varchar(10) NOT NULL;
